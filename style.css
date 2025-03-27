@@ -1,0 +1,23 @@
+body {
+    background-color: #000000;
+    color: #F6F6F6;
+}
+
+strong {
+    color: #22D4FD;
+}
+
+.container {
+    text-align: none;
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+}
+  
+a {
+    text-decoration: none;
+    padding: 5px 10px;
+    background-color: #22D4FD;
+    color: black;
+    border-radius: 20px;
+  }
